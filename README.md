@@ -1,3 +1,3 @@
 # ML-Regression
 
-*Regression Problem with Machine Learning*
+*Regression Projects with Machine Learning*
